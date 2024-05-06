@@ -30,4 +30,18 @@ html {
     z-index: 100;
     background: #1d1d23;
 }
+.logo img {
+    width: 60px;
+}
+.navbar a {
+    color: white;
+    margin: 0.5rem;
+    padding: 0.5rem;
+    font-size: 1.5rem;
+}
+
+.navbar a:hover {
+    color: var(--btn-color);
+}
+
 
