@@ -235,6 +235,38 @@ html {
     width: 100%;
     object-fit: cover;
 }
+.gallery {
+    padding: 4rem 7%;
+    background: var(--about-sec);
+}
+
+.gallery h1 {
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 3rem;
+    color: var(--btn-color);
+    letter-spacing: 1px;
+}
+
+.main-gallery {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+.inner-gallery {
+    flex: 1 1 300px;
+}
+
+.inner-gallery .gallery-image img {
+    width: 100%;
+}
+
+.inner-gallery .gallery-image:hover img {
+    transform: perspective(1000px) rotateX(-4.80deg) rotateY(-10.23deg) scale3d(1.05,1.05,1.05);
+    clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
+}
 
 
 
