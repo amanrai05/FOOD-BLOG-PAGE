@@ -299,6 +299,67 @@ html {
     padding: 1rem 0;
     line-height: 30px;
 }
+.our-menu-food {
+    padding: 2rem 7%;
+    background-color: var(--about-sec);
+}
+
+.our-menu-food h1 {
+    color: var(--btn-color);
+    font-size: 45px;
+    text-align: center;
+    padding: 0.5rem 0;
+}
+
+.main-menu-food {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.inner-menu-food {
+    flex: 1 1 300px;
+}
+
+.menu-food-content {
+    width: 100%;
+}
+
+.menu-food-content img {
+    width: 100%;
+}
+
+.menu-food-text {
+    padding: 2rem 2rem;
+}
+
+.menu-food-text h2 {
+    color: var(--btn-color);
+    font-size: 30px;
+}
+
+.menu-food-text p {
+    color: white;
+    font-size: 18px;
+    margin: 2rem 0;
+}
+
+.menu-food-text p span {
+    color: #e58f00;
+    padding: 0.5rem 1.5rem;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.menu-food-text p:hover span {
+    border: 1px solid white;
+    background: var(--btn-color);
+    color: white;
+    transform: scale(1.1);
+}
 
 
 
