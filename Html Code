@@ -89,6 +89,25 @@
 </section>
 <!-- End of Merged About section -->
 
+<!-- Quality section -->
+<section id="quality" class="quality">
+    <div class="main-quality">
+        <div class="main-inner-quality">
+            <div class="quality-content">
+                <h2>Our food quality</h2>
+                <p>It Is Very Important For The Customer To Pay Attention To The Adipiscing Process. What Flexibility The Blinded Architect Of The Body Escapes From Great Trouble, So Happy Trouble Which, They Do Not Know Why? Troubles, From The Mistake Of Life To Make Who Who. The Company Itself Is A Very Successful Company. Therefore, Every Advantage Must Be Spared, Because They Are The Least Of Any Kind. They Are Born Of Great Hardships, The Pain Will Be Criticized, The Exercise Will Be Followed, They Do Not Know The Mistake, He Hates The Right</p>
+            </div>
+        </div>
+
+        <div class="main-inner-quality">
+            <div class="quality-content qulity-image">
+                <img src="images/egg.png" alt="">
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End of Quality section -->
+
 <section id="home">
     <h2>Home Section</h2>
     <p>Welcome to your website. This is the home section.</p>
@@ -105,3 +124,9 @@
 
 </body>
 </html>
+
+            
+
+
+       
+    
