@@ -43,5 +43,9 @@ html {
 .navbar a:hover {
     color: var(--btn-color);
 }
+.navbar a:hover {
+    color: var(--btn-color);
+}
+
 
 
