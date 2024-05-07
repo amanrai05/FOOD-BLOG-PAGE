@@ -55,6 +55,22 @@ html {
 .icons div:hover {
     cursor: pointer;
 }
+.icons a {
+    color: white;
+    padding: 0.6rem 1.5rem;
+    border: 1px solid rgb(28, 28, 28);
+    border-radius: 10px;
+    font-size: 18px;
+    transition: 0.5s;
+    display: inline-block;
+}
+
+.contact-btn:hover {
+    transform: scale(1.1);
+    background: var(--btn-color);
+    border: 1px solid white;
+}
+
 
 
 
