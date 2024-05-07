@@ -59,6 +59,7 @@
     <nav class="navbar">
         <a href="#home">Home</a>
         <a href="#about">About</a>
+        <a href="#quality">Food Quality</a>
         <a href="#contact">Contact</a>
     </nav>
 
@@ -113,6 +114,44 @@
     <p>Welcome to your website. This is the home section.</p>
 </section>
 
+<!-- Gallery section -->
+<section id="gallery" class="gallery">
+    <h2>Gallery</h2>
+    <div class="main-gallery">
+        <div class="inner-gallery">
+            <div class="gallery-image">
+                <img src="images/gallery1.png" alt="">
+            </div>
+        </div>
+        <div class="inner-gallery">
+            <div class="gallery-image">
+                <img src="images/gallery2.png" alt="">
+            </div>
+        </div>
+        <div class="inner-gallery">
+            <div class="gallery-image">
+                <img src="images/gallery3.png" alt="">
+            </div>
+        </div>
+        <div class="inner-gallery">
+            <div class="gallery-image">
+                <img src="images/gallery4.png" alt="">
+            </div>
+        </div>
+        <div class="inner-gallery">
+            <div class="gallery-image">
+                <img src="images/gallery5.png" alt="">
+            </div>
+        </div>
+        <div class="inner-gallery">
+            <div class="gallery-image">
+                <img src="images/gallery6.png" alt="">
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End of Gallery section -->
+
 <section id="contact">
     <h2>Contact Section</h2>
     <p>Contact us for any inquiries or feedback.</p>
@@ -124,6 +163,7 @@
 
 </body>
 </html>
+
 
             
 
