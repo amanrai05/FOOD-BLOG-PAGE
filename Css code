@@ -360,6 +360,36 @@ html {
     color: white;
     transform: scale(1.1);
 }
+.footer {
+    background: #1d1d23;
+    padding: 6rem 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.main-footer {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.main-footer img {
+    width: 200px;
+}
+
+.footer-navbar {
+    margin-top: 15px;
+}
+
+.footer-navbar a {
+    color: #e58f00;
+    font-size: 18px;
+    margin: 1rem;
+    padding: 1rem;
+}
+
 
 
 
