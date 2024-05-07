@@ -70,6 +70,10 @@ html {
     background: var(--btn-color);
     border: 1px solid white;
 }
+.navbar.active {
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+}
+
 
 
 
