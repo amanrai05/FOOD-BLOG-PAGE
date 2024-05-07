@@ -68,14 +68,30 @@
     </div>
 </header>
 
+<!-- Merged About section -->
+<section id="about" class="about">
+    <div class="main-about">
+        <div class="about-content">
+            <div class="about-inner-content">
+                <img class="myimageabout" src="images/About us.png" alt="">
+            </div>
+        </div>
+
+        <div class="about-content">
+            <div class="about-inner-content">
+                <div class="about-text-content">
+                    <h2>About Us</h2>
+                    <p>The Company Itself Is A Very Successful Company. They Are Supposed To Be Right, They Don't Know What To Look For, They Don't Know What To Do! I Will Explain The Pains Of Insight To Provide For The Resilience Of All The Pleasures Of The Flight Mode. The Company Itself Is A Very Successful Company. As If, Except For The Pains And Duties Of Others, And The Like, The Needs Of The Blessed Ones, Here, Have Made Him Worthy Of Some Kind</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End of Merged About section -->
+
 <section id="home">
     <h2>Home Section</h2>
     <p>Welcome to your website. This is the home section.</p>
-</section>
-
-<section id="about">
-    <h2>About Section</h2>
-    <p>Learn more about our company or organization here.</p>
 </section>
 
 <section id="contact">
